@@ -1,2 +1,11 @@
-# .github
-const lelo = ;
+# my .github
+
+Input:
+```js
+console.log(lelo)
+```
+
+Output:
+```bash
+Undefined 'lelo'.
+```
